@@ -13,8 +13,9 @@ This project is a Cloudflare Worker that acts as a proxy for Claude API requests
 
 1. Clone this repository:
    ```
-   git clone [your-repository-url]
-   cd [your-repository-name]
+   git clone https://github.com/NuckyInSg/claude-proxy
+   cd claude-proxy
+
    ```
 
 2. Authenticate Wrangler with your Cloudflare account:
